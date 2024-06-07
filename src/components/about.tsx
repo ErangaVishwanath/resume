@@ -13,15 +13,13 @@ const about = () => {
         </header>
         <section className="about-text">
           <p>
-            As an enthusiastic and self-motivated IT graduate, I am driven by a
-            passion for learning and a strong ambition to achieve my goals.
-            Having completed my internship, I am now seeking to leverage my
-            skills and experience in the IT industry as a full-time software
-            engineer. I am eager to explore new opportunities, advance my
-            knowledge, and contribute to innovative projects, making a
-            meaningful impact in the field.
+            A responsible, self-motivated, skillful, dedicated, undergraduate
+            with team spirit and leadership qualities who is willing to accept
+            challenges, seeking an opportunity as a software engineer to apply
+            and explore the existing and forthcoming technologies in the field
+            of Information Technology.
           </p>
-          <p>
+          {/* <p>
             My mission is to develop full-stack websites that are not only
             functional and user-friendly but also visually appealing. I infuse
             each project with a personal touch, ensuring that the end product is
@@ -30,7 +28,7 @@ const about = () => {
             manner. With experience in designing and developing websites for
             prominent brands, I am committed to delivering high-quality web
             solutions that stand out.
-          </p>
+          </p> */}
         </section>
         {service()}
         {testimonials()}

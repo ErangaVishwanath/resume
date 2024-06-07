@@ -28,10 +28,13 @@
 
 .navbar-link:hover,
 .navbar-link:focus{
-  color: var(--light-gray-70);
+  color: hsl(193, 100%, 47%);
+  text-decoration: underline;
+  /* var(--light-gray-70); */
 }
 
 .navbar-link.active{
-  color: var(--orange-yellow-crayola);
+  color: hsl(193, 100%, 47%);
+  text-decoration: underline;
 }
 
