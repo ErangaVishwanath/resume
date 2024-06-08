@@ -14,17 +14,17 @@ const Sidebar: React.FC = () => {
         <div className="sidebar-info">
           <figure className="avatar-box">
             <img
-              src="/assets/myDp.jpg"
-              alt="Avatar of Eranga Vishwanath"
+              src="/assets/my-avatar.png"
+              alt="Avatar of Chinthaka"
               width={80}
               className="avatar"
             />
           </figure>
           <div className="info-content">
-            <h1 className="name" title="Eranga Vishwanath">
-              Eranga Vishwanath
+            <h1 className="name" title="Kavindu Chinthaka">
+              Kavindu Chinthaka
             </h1>
-            <p className="title">Fullstack Developer</p>
+            <p className="title">Software Engineer</p>
           </div>
           <button
             className="info_more-btn"
@@ -46,10 +46,10 @@ const Sidebar: React.FC = () => {
               <div className="contact-info">
                 <p className="contact-title">Email</p>
                 <a
-                  href="mailto:erangavishwanath@gmail.com"
+                  href="mailto:chinthakawmk@gmail.com"
                   className="contact-link"
                 >
-                  erangavishwanath@gmail.com
+                  chinthakawmk@gmail.com
                 </a>
               </div>
             </li>
@@ -61,8 +61,8 @@ const Sidebar: React.FC = () => {
               <div className="contact-info">
                 <p className="contact-title">Phone</p>
 
-                <a href="tel:+94789484840" className="contact-link">
-                  +94 (78) 948-4840
+                <a href="tel:+94767783752" className="contact-link">
+                  +94 (76) 778-3752
                 </a>
               </div>
             </li>
@@ -85,27 +85,38 @@ const Sidebar: React.FC = () => {
               <div className="contact-info">
                 <p className="contact-title">Location</p>
 
-                <address>Beliatta, Southern province, Sri Lanka</address>
+                <address>
+                  No 5, Meegahawaththa, Wattakgoda, Weligama, Sri Lanka
+                </address>
               </div>
             </li>
           </ul>
           <div className="separator"></div>
           <ul className="social-list">
             <li className="social-item">
-              <a href="#" className="social-link">
+              <a
+                href="http://www.linkedin.com/in/kavindu-chinthaka-in"
+                className="social-link"
+              >
                 <ion-icon name="logo-linkedin"></ion-icon>
               </a>
             </li>
 
             <li className="social-item">
-              <a href="#" className="social-link">
+              <a
+                href="https://github.com/chinthaka-Git"
+                className="social-link"
+              >
                 <ion-icon name="logo-github"></ion-icon>
               </a>
             </li>
 
             <li className="social-item">
-              <a href="#" className="social-link">
-                <ion-icon name="logo-medium"></ion-icon>
+              <a
+                href="https://www.behance.net/kavinduchinthaka"
+                className="social-link"
+              >
+                <ion-icon name="logo-behance"></ion-icon>
               </a>
             </li>
 

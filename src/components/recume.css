@@ -1,1 +1,5 @@
 .article-title { margin-bottom: 30px; }
+
+.point{
+    list-style: disc;
+}
