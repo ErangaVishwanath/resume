@@ -4,9 +4,10 @@ import Sidebar from "./components/sideBar";
 import navBar from "./components/navBar";
 import about from "./components/about";
 import recume from "./components/recume";
-import portfolio from "./components/portfolio";
-import blog from "./components/blog";
+import project from "./components/project";
+// import blog from "./components/blog";
 import contact from "./components/contact";
+import technologies from "./components/technologies";
 
 function App() {
   return (
@@ -18,8 +19,9 @@ function App() {
           <Routes>
             <Route path="/" element={about()} />
             <Route path="/resume" element={recume()} />
-            <Route path="/portfolio" element={portfolio()} />
-            <Route path="/blog" element={blog()} />
+            <Route path="/project" element={project()} />
+            <Route path="/technologies" element={technologies()} />
+            {/* <Route path="/blog" element={blog()} /> */}
             <Route path="/contact" element={contact()} />
           </Routes>
         </div>

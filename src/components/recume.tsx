@@ -165,6 +165,43 @@ const recume = () => {
             </li>
             <li className="timeline-item">
               <h4 className="h4 timeline-item-title">
+                Sport Equipment selling system
+              </h4>
+
+              <span>Personal Project (2023)</span>
+
+              <p className="timeline-text">
+                Aim of this project selling personal brand sport equipment to
+                the European market.
+              </p>
+              {/* <span>
+                Role : Stripe payment gateway integration and ensuring handling
+                of financial transactions and providing a secure payment
+                experience for both event organizers and participants.
+              </span> */}
+              <span>Technologies : React JS, Springboot, MySQL, PayPal</span>
+            </li>
+            <li className="timeline-item">
+              <h4 className="h4 timeline-item-title">
+                Travel Blog Site Frontend
+              </h4>
+
+              <span>Personal Project (2023)</span>
+
+              <p className="timeline-text">
+                This blog site designed for share and explore destinations. This
+                platforms provide showcase personal travel experiences and
+                adventures.
+              </p>
+              {/* <span>
+                Role : Stripe payment gateway integration and ensuring handling
+                of financial transactions and providing a secure payment
+                experience for both event organizers and participants.
+              </span> */}
+              <span>Technologies : React JS</span>
+            </li>
+            <li className="timeline-item">
+              <h4 className="h4 timeline-item-title">
                 Online Selling & Buying System
               </h4>
 
@@ -354,16 +391,16 @@ const recume = () => {
                 of UoM
               </h4>
             </li>
-            <li className="timeline-item">
+            {/* <li className="timeline-item">
               <h4 className="h4 timeline-item-title">
                 CSS Developer in Treasure Hunt 2020 - Rotaract Club of UoM
               </h4>
-            </li>
+            </li> */}
           </ol>
         </section>
 
         <section className="skill">
-          <h3 className="h3 skills-title">My skills</h3>
+          <h3 className="h3 skills-title">Pro skills</h3>
 
           <ul className="skills-list content-card">
             <li className="skills-item">

@@ -1,7 +1,7 @@
 import service from "./service";
-import testimonials from "./testimonials";
-import testimonialsModal from "./testimonialsModal";
-import client from "./client";
+// import testimonials from "./testimonials";
+// import testimonialsModal from "./testimonialsModal";
+// import client from "./client";
 import "./about.css";
 
 const about = () => {
@@ -13,11 +13,11 @@ const about = () => {
         </header>
         <section className="about-text">
           <p>
-            A responsible, self-motivated, skillful, dedicated, undergraduate
-            with team spirit and leadership qualities who is willing to accept
-            challenges, seeking an opportunity as a software engineer to apply
-            and explore the existing and forthcoming technologies in the field
-            of Information Technology.
+            I am a dedicated, friendly, and hardworking individual who is always
+            eager to be challenged to grow in my knowledge and skills, seeking a
+            Software Engineering position in which I can utilize my abilities to
+            their fullest potential, positively contribute to my personal
+            growth, and make a meaningful impact on the organization.
           </p>
           {/* <p>
             My mission is to develop full-stack websites that are not only
@@ -31,9 +31,9 @@ const about = () => {
           </p> */}
         </section>
         {service()}
-        {testimonials()}
-        {testimonialsModal()}
-        {client()}
+        {/* {testimonials()} */}
+        {/* {testimonialsModal()}
+        {client()} */}
       </article>
     </>
   );

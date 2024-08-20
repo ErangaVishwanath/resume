@@ -26,14 +26,13 @@ const service = () => {
               <img src="" alt="design icon" />
             </div>
             <div className="service-content-box">
-              <h4 className="h4 service-content-box">Web Scrapping</h4>
+              <h4 className="h4 service-content-box">UI/UX Designs</h4>
               <p className="service-item-text">
-                The most modern and high-quality design made at a professional
-                level
+                Crafting intuitive designs that elevate user experiences.
               </p>
             </div>
           </li>
-          <li className="service-item">
+          {/* <li className="service-item">
             <div className="service-icon-box">
               <img
                 src="./assets/images/icon-photo.svg"
@@ -48,7 +47,7 @@ const service = () => {
                 level.
               </p>
             </div>
-          </li>
+          </li> */}
         </ul>
       </section>
     </>

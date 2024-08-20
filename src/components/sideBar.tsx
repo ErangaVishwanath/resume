@@ -14,7 +14,7 @@ const Sidebar: React.FC = () => {
         <div className="sidebar-info">
           <figure className="avatar-box">
             <img
-              src="/assets/my-avatar.png"
+              src="../../public/assets//CV_Squre.png"
               alt="Avatar of Chinthaka"
               width={80}
               className="avatar"
@@ -66,7 +66,7 @@ const Sidebar: React.FC = () => {
                 </a>
               </div>
             </li>
-            <li className="contact-item">
+            {/* <li className="contact-item">
               <div className="icon-box">
                 <ion-icon name="calendar-outline"></ion-icon>
               </div>
@@ -76,7 +76,7 @@ const Sidebar: React.FC = () => {
 
                 <time dateTime="1999-08-24">August 24, 1999</time>
               </div>
-            </li>
+            </li> */}
             <li className="contact-item">
               <div className="icon-box">
                 <ion-icon name="location-outline"></ion-icon>

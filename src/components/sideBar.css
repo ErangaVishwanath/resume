@@ -3,6 +3,8 @@
   max-height: 112px;
   overflow: hidden;
   transition: var(--transition);
+  /* background: var(--smoky-black); */
+  box-shadow: none;
 }
 .sidebar.active {
   max-height: 405px;
