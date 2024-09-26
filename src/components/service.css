@@ -27,9 +27,12 @@
 }
 .service-icon-box{
     margin-bottom: 10px;
+
 }
 .service-icon-box img{
     margin: auto;
+    width: 60px;
+    height: 60px;
 }
 .service-content-box{
     text-align: center;

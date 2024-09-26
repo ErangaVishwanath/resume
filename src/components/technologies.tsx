@@ -14,17 +14,13 @@ const Technologies = () => {
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/java.png"
+                    src="/assets/Group 9.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">Java</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
             </ul>
@@ -35,97 +31,73 @@ const Technologies = () => {
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/react.png"
+                    src="/assets/react.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">ReactJs</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/html.jpg"
+                    src="/assets/html.jpg"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">HTML</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="./../public/assets/css.jpg"
+                    src="/assets/css.jpg"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">CSS</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="./../public/assets/Bootstrap-theme-7.jpg"
+                    src="/assets/Bootstrap-theme-7.jpg"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">Bootstrap</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="./../public/assets/js.png"
+                    src="/assets/js.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">JavaScript</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="./../public/assets/ts.png"
+                    src="/assets/ts.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">TypeScript</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
             </ul>
@@ -136,81 +108,60 @@ const Technologies = () => {
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/Microsoft_.NET_logo.svg"
+                    src="/assets/Microsoft_.NET_logo.svg"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">.NET</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/node.png"
+                    src="/assets/node.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">NodeJs</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/express.png"
+                    src="/assets/express.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">ExpressJs</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/spring-boot.webp"
+                    src="/assets/spring-boot.webp"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
-                  <h3 className="h3 blog-item-title">Spring-Boot</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/php.png"
+                    src="/assets/Group 11.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">PHP</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
             </ul>
@@ -221,33 +172,25 @@ const Technologies = () => {
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/figma.png"
+                    src="/assets/Group 8.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">Figma</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/xd.png"
+                    src="/assets/xd.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">Adobe XD</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
             </ul>
@@ -258,49 +201,13 @@ const Technologies = () => {
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/github.png"
+                    src="/assets/Group 12.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
                   <h3 className="h3 blog-item-title">GitHub</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
-                </div>
-              </li>
-              <li className="tech-item">
-                <figure className="tech-banner-box">
-                  <img
-                    src="../../public/assets/spring-boot.webp"
-                    alt="Design conferences in 2022"
-                    loading="lazy"
-                  />
-                </figure>
-                <div className="tech-content">
-                  <h3 className="h3 blog-item-title">Spring-Boot</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
-                </div>
-              </li>
-              <li className="tech-item">
-                <figure className="tech-banner-box">
-                  <img
-                    src="./assets/images/blog-1.jpg"
-                    alt="Design conferences in 2022"
-                    loading="lazy"
-                  />
-                </figure>
-                <div className="tech-content">
-                  <h3 className="h3 blog-item-title">ReactJs</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
                 </div>
               </li>
             </ul>
@@ -311,49 +218,37 @@ const Technologies = () => {
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/react.png"
+                    src="/assets/mysql.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
-                  <h3 className="h3 blog-item-title">ReactJs</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
+                  <h3 className="h3 blog-item-title">My SQL</h3>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/spring-boot.webp"
+                    src="/assets/mssql.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
-                  <h3 className="h3 blog-item-title">Spring-Boot</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
+                  <h3 className="h3 blog-item-title">MS SQL</h3>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="./assets/images/blog-1.jpg"
+                    src="//assets/mongo.jpg"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
-                  <h3 className="h3 blog-item-title">ReactJs</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
+                  <h3 className="h3 blog-item-title">Mongo DB</h3>
                 </div>
               </li>
             </ul>
@@ -364,49 +259,25 @@ const Technologies = () => {
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/react.png"
+                    src="/assets/postman-icon.svg"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
-                  <h3 className="h3 blog-item-title">ReactJs</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
+                  <h3 className="h3 blog-item-title">Postman</h3>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/spring-boot.webp"
+                    src="/assets/swagger.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
                 </figure>
                 <div className="tech-content">
-                  <h3 className="h3 blog-item-title">Spring-Boot</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
-                </div>
-              </li>
-              <li className="tech-item">
-                <figure className="tech-banner-box">
-                  <img
-                    src="./assets/images/blog-1.jpg"
-                    alt="Design conferences in 2022"
-                    loading="lazy"
-                  />
-                </figure>
-                <div className="tech-content">
-                  <h3 className="h3 blog-item-title">ReactJs</h3>
-                  <p className="tech-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt,
-                    explicabo.
-                  </p>
+                  <h3 className="h3 blog-item-title">Swagger</h3>
                 </div>
               </li>
             </ul>

@@ -13,7 +13,7 @@ const Project = () => {
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/Group 1.png"
+                    src="/assets/Group 1.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
@@ -31,7 +31,7 @@ const Project = () => {
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/Group 2.png"
+                    src="/assets/Group 2.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
@@ -41,17 +41,14 @@ const Project = () => {
                     Musical Event Management System
                   </h3>
                   <p className="tech-text">
-                    Event organizers can easily book talented artists for their
-                    upcoming events, while participants enjoy the convenience of
-                    purchasing event tickets hassle-free through our intuitive
-                    system. From artist selection to ticket reservations
+                  This is musical artist booking and event ticket reservations System.
                   </p>
                 </div>
               </li>
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/Group 3.png"
+                    src="/assets/Group 3.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
@@ -69,7 +66,7 @@ const Project = () => {
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/Group 4.png"
+                    src="/assets/Group 4.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
@@ -88,7 +85,7 @@ const Project = () => {
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/Group 5.png"
+                    src="/assets/Group 5.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
@@ -107,7 +104,7 @@ const Project = () => {
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/Group 6.png"
+                    src="/assets/Group 6.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
@@ -125,7 +122,7 @@ const Project = () => {
               <li className="tech-item">
                 <figure className="tech-banner-box">
                   <img
-                    src="../../public/assets/Group 7.png"
+                    src="/assets/Group 7.png"
                     alt="Design conferences in 2022"
                     loading="lazy"
                   />
@@ -136,9 +133,7 @@ const Project = () => {
                   </h3>
                   <p className="tech-text">
                     This is a proposed solution for to reduce time wasting for
-                    coconut milk generate. To make an automated coconut milk
-                    generator to simplify the coconut milk generating process
-                    and save time for people who have got busy schedules.
+                    coconut milk generate. 
                   </p>
                 </div>
               </li>

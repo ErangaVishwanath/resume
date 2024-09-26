@@ -139,7 +139,7 @@ html {
 }
 
 body {
-  /* background: var(--jet); */
+  background: var(--jet);
   box-shadow: none;
   margin: 0;
   padding: 0;
@@ -158,6 +158,7 @@ article {
   /* box-shadow: var(--shadow-1); */
   box-shadow: none;
   z-index: 1;
+  width: 400px;
 }
 
 .separator {

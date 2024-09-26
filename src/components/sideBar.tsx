@@ -14,7 +14,7 @@ const Sidebar: React.FC = () => {
         <div className="sidebar-info">
           <figure className="avatar-box">
             <img
-              src="../../public/assets//CV_Squre.png"
+              src="/assets/CV_Squre.png"
               alt="Avatar of Chinthaka"
               width={80}
               className="avatar"

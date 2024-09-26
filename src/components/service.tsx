@@ -9,7 +9,7 @@ const service = () => {
           <li className="service-item">
             <div className="service-icon-box">
               <img
-                src="./assets/images/icon-dev.svg"
+                src="/assets/Web.jpg"
                 alt="Web development icon"
                 width="40"
               />
@@ -23,7 +23,7 @@ const service = () => {
           </li>
           <li className="service-item">
             <div className="service-icon-box">
-              <img src="" alt="design icon" />
+              <img src="/assets/UI UX.jpg" alt="design icon" />
             </div>
             <div className="service-content-box">
               <h4 className="h4 service-content-box">UI/UX Designs</h4>

@@ -2,13 +2,14 @@
   display: block;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 20px;
-  padding: 20px; /* Optional padding */
+  padding: 10px; /* Optional padding */
 }
 
 .section-title {
   font-size: 2rem; /* Example font size */
   font-weight: bold; /* Example font weight */
   margin-bottom: 20px;
+  margin-top: 50px;
   color: #f4eeeec8;
 }
 

@@ -36,11 +36,11 @@ const navBar = () => {
             </Link>
           </li> */}
 
-          <li className="navbar-item">
+          {/* <li className="navbar-item">
             <Link to="/contact" className="navbar-link" data-nav-link>
               Contact
             </Link>
-          </li>
+          </li> */}
         </ul>
       </nav>
     </>

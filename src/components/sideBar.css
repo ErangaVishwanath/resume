@@ -1,6 +1,7 @@
 .sidebar {
   margin-bottom: 15px;
   max-height: 112px;
+  width: 100px;
   overflow: hidden;
   transition: var(--transition);
   /* background: var(--smoky-black); */

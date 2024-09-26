@@ -29,7 +29,7 @@ const recume = () => {
                 Reading for BSc. (Hons) in Information Technology University of
                 Moratuwa.
                 <br />
-                Current GPA: 3.24 (Up to Semester 7)
+                Second Class Lower Division
               </p>
             </li>
 
@@ -63,15 +63,19 @@ const recume = () => {
           <ol className="timeline-list">
             <li className="timeline-item">
               <h4 className="h4 timeline-item-title">
-                Software Engineer (Part Time)
+                Associate Software Engineer 
               </h4>
 
               <span>Unicorn Solutions (Pvt) Ltd</span>
 
               <p className="timeline-text">
-                Developing a UI automation project tailored to the company's
+                <ul>
+                  <li className="point">
+                  Developing a UI automation project tailored to the company's
                 needs. The project aims to perform smoke testing quickly and
                 efficiently.
+                  </li>
+                </ul>
               </p>
               <span>
                 Technologies : .Net Core, Azure Cloud Services, SpecFlow
@@ -86,9 +90,10 @@ const recume = () => {
               <span>Unicorn Solutions (Pvt) Ltd</span>
 
               <p className="timeline-text">
-                Involved in the “QUICK-IN” project as a full-stack developer.
-                <br />
                 <ul>
+                  <li className="point">
+                    Involved in the “QUICK-IN” project as a full-stack developer.
+                  </li>
                   <li className="point">
                     Develop “QUICK-IN” Employee Management System, a cloud-based
                   </li>
@@ -122,7 +127,7 @@ const recume = () => {
                 contents related to Agriculture sector
               </h4>
 
-              <span>Final Year Research Project (Ongoing)</span>
+              <span>Final Year Research Project (2024)</span>
 
               <p className="timeline-text">
                 The automatic infographic generation system that uses the
@@ -145,7 +150,7 @@ const recume = () => {
                 Musical Artist Booking and Event Ticket Reservations System
               </h4>
 
-              <span>Personal Project (2023)</span>
+              <span>Personal Project (2024)</span>
 
               <p className="timeline-text">
                 Event organizers can easily book talented artists for their
@@ -198,7 +203,7 @@ const recume = () => {
                 of financial transactions and providing a secure payment
                 experience for both event organizers and participants.
               </span> */}
-              <span>Technologies : React JS</span>
+              <span>Technologies : React TS</span>
             </li>
             <li className="timeline-item">
               <h4 className="h4 timeline-item-title">
